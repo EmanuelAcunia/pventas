@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pruebas",
-    "slug": "pruebas",
+    "name": "pventas",
+    "slug": "pventas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
