@@ -1,4 +1,5 @@
 1-crear abm para clientes
 2-tamaño de pantalla.
 3-botones de alta de articulo
-4-
+4-conranzas
+4 recorridos cronograma 
